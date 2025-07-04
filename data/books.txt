@@ -1,0 +1,17 @@
+Introduction to Algorithms,Cormen,MIT Press,67890,1,0
+Database Systems,Elmasri,Pearson,54321,1,0
+Artificial Intelligence,Stuart Russell,Pearson,11223,1,0
+Operating System Concepts,Silberschatz,Wiley,33445,1,0
+Computer Networks,Tanenbaum,Pearson,55667,1,0
+Modern Software Engineering,Fowler,Addison-Wesley,77889,1,0
+Deep Learning,Goodfellow,MIT Press,99000,1,0
+Digital Design,Morris Mano,Pearson,11122,1,0
+Cybersecurity Essentials,Kenneth Morgan,Wiley,22233,0,0
+Clean Code,Robert C. Martin,Prentice Hall,9780132350884,1,0
+Design Patterns,Erich Gamma,Addison-Wesley,9780201633610,1,0
+Introduction to Algorithms,Thomas H. Cormen,MIT Press,9780262046305,1,0
+The Pragmatic Programmer,Andrew Hunt,Addison-Wesley,9780201616224,0,0
+Effective C++,Scott Meyers,O'Reilly,9780321334879,1,0
+Artificial Intelligence: A Modern Approach,Stuart Russell & Peter Norvig,Pearson,9780134610993,0,0
+Operating System Concepts,Abraham Silberschatz,Wiley,9781118063330,1,0
+C++ Primer,Lippman,Pearson,12345,0,0

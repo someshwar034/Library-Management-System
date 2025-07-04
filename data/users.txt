@@ -1,0 +1,12 @@
+admin libPass Librarian
+anish password123 Student
+alice password222 Student
+charlie password345 Student
+dev password456 Student
+eve password567 Student
+ranu facultyPass1 Faculty
+gracia facultyPass2 Faculty
+david facultypass4 Faculty
+idi facultyPass3 Faculty
+bab password234 Student
+john facultyPass Faculty

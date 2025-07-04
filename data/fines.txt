@@ -1,0 +1,5 @@
+eve 15
+anish 40
+ranu 120
+gracia 80
+idi 60
